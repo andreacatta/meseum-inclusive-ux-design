@@ -1,8 +1,11 @@
 # Meseum Inclusive UX Design
 A modular approach to assess and design museum or exhibitions inclusivity.
 
-## The journey canvas
+## The inclusive exhibition map
 The  canvas is designed to facilitate the design and analysis of user experience in museum settings. This tool helps designers map the interactions between the user and the service, identifying key moments, interactions, modularity, and assessing the inclusiveness, accessibility, diversity, and equity of the experience offered.
+
+![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/49b12595-e200-41c9-ae1b-e5994189a28b)
+
 
 ### Objectives
 - Articulate situations into scenes and moments for detailed understanding.
