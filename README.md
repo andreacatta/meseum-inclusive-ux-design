@@ -22,5 +22,3 @@ This canvas is an essential resource for designers, museum managers, and UX prof
 
 ## License
 Distributed under the Creative Commons Attribution-Share Alike License (CC BY-SA 4.0), this canvas may be used, modified, and distributed freely, provided credit is given to [Author's Name] and any derivative works are shared under the same terms.
-
-Translated with www.DeepL.com/Translator (free version)
