@@ -6,6 +6,10 @@ The  canvas is designed to facilitate the design and analysis of user experience
 
 ![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/49b12595-e200-41c9-ae1b-e5994189a28b)
 
+Use as a series of smaller activities with partial templates.
+
+![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/ba0b5390-32d8-4966-a11f-36a86a07c758)
+
 
 ### Objectives
 - Articulate situations into scenes and moments for detailed understanding.
