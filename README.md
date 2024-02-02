@@ -21,4 +21,4 @@ Use as a series of smaller activities with partial templates.
 This canvas is an essential resource for designers, museum managers, and UX professionals who aim to create engaging and accessible museum experiences for all. It is ideal for planning new exhibits, revising existing experiences, or as a teaching tool for professional development.
 
 ## License
-Distributed under the Creative Commons Attribution-Share Alike License (CC BY-SA 4.0), this canvas may be used, modified, and distributed freely, provided credit is given to [Author's Name] and any derivative works are shared under the same terms.
+Distributed under the Creative Commons Attribution-Share Alike License (CC BY-SA 4.0), this canvas may be used, modified, and distributed freely, provided credit is given to Andrea Cattabriga and any derivative works are shared under the same terms.
