@@ -7,11 +7,12 @@ A modular approach to assess and design museum or exhibitions inclusivity (with 
 ## Tool: the Inclusive Exhibition Map
 The  canvas is designed to facilitate the design and analysis of user experience in museum settings. This tool helps designers map the interactions between the user and the service, identifying key moments, interactions, modularity, and assessing the inclusiveness, accessibility, diversity, and equity of the experience offered.
 
-![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/49b12595-e200-41c9-ae1b-e5994189a28b)
+![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/96fab083-0487-4638-8319-ec113749f13b)
+
 
 Use as a series of smaller activities with partial templates.
 
-![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/ba0b5390-32d8-4966-a11f-36a86a07c758)
+![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/7a07b0bf-4f37-40cb-a377-244bb27734d6)
 
 
 ### Objectives
@@ -29,6 +30,9 @@ Together with the map, it is possible to build workshop activities for different
 
 One example is this approach that seeks to introduce audiences unfamiliar with inclusion issues to the concept of empathy, which is fundamental to approaching the design of effective experiences.
 The proposed activity insists on the idea of misalignment between body and social context, evoking in participants the emotions that marked the moments when they had that feeling. The underlying idea is to make people understand that this misalignment (the heart of the WHO definition of disability), is a condition that affects everyone, not just people with disabilities, and can be both contextual and temporary in nature.
+
+![immagine](https://github.com/andreacatta/meseum-inclusive-ux-design/assets/6803317/1b5099b3-85d8-40ce-8e11-bb1c5b51fe2c)
+
 
 ## Other tools coming soon
 The Inclusive Exhibition Map is different from a typical journey map, as it's positioned in between the classic journey mapping approach and strategy, focusing on a wider multi-user system of requirements and interactions. For this reason, a number of other tools will be used to support institutions in adopting a full-stack inclusive design methodology.
