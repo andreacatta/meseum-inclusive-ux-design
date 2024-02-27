@@ -1,4 +1,4 @@
-# Meseum Inclusive UX Design
+# Museum Inclusive UX Design
 
 **--> WARNING: material is being updated and documentation is not complete <---**
 
